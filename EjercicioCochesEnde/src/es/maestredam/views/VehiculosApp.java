@@ -99,8 +99,7 @@ public class VehiculosApp {
         lector2.show();
         System.out.println("Primera subida del programa. Version Beta");
         System.out.println("Subido por Mario Lara");
-        System.out.println("Blablabla3232323");
- 
+        System.out.println("Blablabla34323");
     }
 
 }
