@@ -97,10 +97,13 @@ public class VehiculosApp {
         // Muestro el contenido del fichero
         System.out.printf("Leyendo \"%s\"... %n", FICH_2);
         lector2.show();
+        
         System.out.println("Primera subida del programa. Version Beta");
         System.out.println("Subido por Mario Lara");
-        System.out.println("Segudna subida del programa. Version Beta");
-        System.out.println("Subido por Jorge de Diego");
+        System.out.println("Segunda subida del programa. Version Beta");
+        System.out.println("Subido por Jorge de Diegojkj");
+        
+        
 
     }
 
