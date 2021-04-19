@@ -99,11 +99,9 @@ public class VehiculosApp {
         lector2.show();
         System.out.println("Primera subida del programa. Version Beta");
         System.out.println("Subido por Mario Lara");
-        System.out.println("Blablablahj3hjhj34323");
-<<<<<<< HEAD
-        System.out.println("B23423465");
-=======
->>>>>>> refs/remotes/origin/Principal
+        System.out.println("Segudna subida del programa. Version Beta");
+        System.out.println("Subido por Jorge de Diego");
+
     }
 
 }
