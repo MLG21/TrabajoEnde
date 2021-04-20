@@ -105,7 +105,7 @@ public class VehiculosApp {
         System.out.println("Tercera subida del programa. Version Beta");
         System.out.println("Subido por Juan Pablo ");
         System.out.println("Cuarta subida del programa. Version Beta");
-        System.out.println("Subido por Julio López");
+        System.out.println("Subido por Julio López ");
         
         
 
