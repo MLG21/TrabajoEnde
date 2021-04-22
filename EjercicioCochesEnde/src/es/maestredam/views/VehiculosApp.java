@@ -107,7 +107,17 @@ public class VehiculosApp {
         System.out.println("Cuarta subida del programa. Version Beta");
         System.out.println("Subido por Julio López ");
         
+<<<<<<< HEAD
        System.out.println("Prueba del video");
+=======
+        System.out.println("Prueba");
+<<<<<<< HEAD
+        System.out.println("Prueba correcciones ");
+=======
+        System.out.println("Prueba correcciones2");
+>>>>>>> refs/remotes/origin/Correciones
+
+>>>>>>> refs/remotes/origin/Correciones
     }
 
 }
