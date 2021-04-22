@@ -105,11 +105,18 @@ public class VehiculosApp {
         System.out.println("Tercera subida del programa. Version Beta");
         System.out.println("Subido por Juan Pablo ");
         System.out.println("Cuarta subida del programa. Version Beta");
+<<<<<<< HEAD
         System.out.println("Subido por Julio Lï¿½pez ");
         
         System.out.println("Primera subida del programa. Version 1");
         System.out.println("Subido por Juan Pablo");
 
+=======
+        System.out.println("Subido por Julio López ");
+       
+        
+        
+>>>>>>> refs/remotes/origin/Principal
     }
 
 }
