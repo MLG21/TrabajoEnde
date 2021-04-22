@@ -1,4 +1,4 @@
-package es.maestredam.views;
+package src.es.maestredam.views;
 
 
 import es.maestredam.model.Vehiculo;
@@ -105,28 +105,10 @@ public class VehiculosApp {
         System.out.println("Tercera subida del programa. Version Beta");
         System.out.println("Subido por Juan Pablo ");
         System.out.println("Cuarta subida del programa. Version Beta");
-<<<<<<< HEAD
         System.out.println("Subido por Julio Lï¿½pez ");
         
         System.out.println("CorrecciÃ³n 1 por Jorge de Diego\"");
-       
-        
-        
-=======
-        System.out.println("Subido por Julio López ");
-        
-<<<<<<< HEAD
-       System.out.println("Prueba del video");
-=======
-        System.out.println("Prueba");
-<<<<<<< HEAD
-        System.out.println("Prueba correcciones ");
-=======
-        System.out.println("Prueba correcciones2");
->>>>>>> refs/remotes/origin/Correciones
-
->>>>>>> refs/remotes/origin/Correciones
->>>>>>> refs/remotes/origin/Correciones
+ 
     }
 
 }
