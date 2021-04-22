@@ -222,7 +222,7 @@ public class VehiculosApp {
         System.out.println("Subido por Julio L�pez ");
         
         System.out.println("Corrección 1 por Jorge de Diego\"");
- 
+        System.out.println("Corrección 2 por Jorge de Diego\"");
 
     }
 
