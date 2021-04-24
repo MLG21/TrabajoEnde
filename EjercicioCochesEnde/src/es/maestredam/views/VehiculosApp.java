@@ -111,7 +111,7 @@ public class VehiculosApp {
         System.out.println("Subido por Juan Pablo Catalano ");
         
         System.out.println("Segunda subida del programa. Version 1");
-        System.out.println("Subido por Julio López ");
+        System.out.println("Subido por Julio López");
         
         
     }
