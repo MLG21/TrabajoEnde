@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package es.maestredam.views;
 
 
@@ -113,7 +114,10 @@ public class VehiculosApp {
         System.out.println("Segunda subida del programa. Version 1");
         System.out.println("Subido por Julio López");
         
-        
+        System.out.println("Corrección 1 por Jorge de Diego\"");
+        System.out.println("Corrección 2 por Jorge de Diego\"");
+        System.out.println("Corrección 3 por Jorge de Diego\"");
+
         
     }
 
